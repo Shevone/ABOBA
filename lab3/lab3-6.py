@@ -1,0 +1,6 @@
+numb = int(input('Введите число от 1 до 10: '))
+print(numb * "   _~_    ")
+print(numb * "  (o o)   ")
+print(numb * " /  V  \  ")
+print(numb * "/(  _  )\ ")
+print(numb * "  ^^ ^^   ")

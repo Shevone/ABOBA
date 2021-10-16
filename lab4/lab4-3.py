@@ -37,7 +37,7 @@ print(phone_book)
 
 phone_book["Jill"] = 456
 print(phone_book)  # Объясните результат
-
+# добавили в словарь значине 456 по ключу Jill
 print(phone_book.keys())
 
 # Выведите все номера из телефонной книги

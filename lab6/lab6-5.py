@@ -36,9 +36,9 @@ def search():
                 # Если находится нужный файл то мы прибавляет к счётчику единицу и переходим к следующим функиям
                 a += 1
                 if word in task2:
-                    operation_with_numb()
+                    operation_with_numb_task2()
                 if word in task3:
-                    operation_with_numb2()
+                    operation_with_numb_task3()
         if a == 0: # Если не находится файла с нужным названием то счётчик == 0
             # Пользователю предлагается созадть нужный файл
             print("Файл с входными данными не обнаружен")
